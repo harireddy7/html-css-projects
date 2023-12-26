@@ -26,3 +26,6 @@ Mobile:
 ![mobile-preview](./images/mobile-preview.png)
 
 
+## Links
+
+Live: [qr-code](https://harireddy7.github.io/html-css-projects/qr-code)
